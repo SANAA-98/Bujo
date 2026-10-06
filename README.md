@@ -6,6 +6,6 @@
 - قشنگه
 - افلاینه
 
-https://sanaa-98.github.io/Bujo/
-‌
-**تو هوم اسکرین اددش کردم**
+>https://sanaa-98.github.io/Bujo/
+>
+>**برا هوم اسکرین**
